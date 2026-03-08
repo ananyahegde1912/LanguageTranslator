@@ -24,9 +24,8 @@ I created a Language Translator app that lets users type a sentence and translat
 ## **Future Improvements**
 
 - Add more languages for translation.
-- Include voice input and audio output for translations.
 - Save translation history so users can refer back to previous translations.
 
 ## **To Take Note**
 
-- Install the `deep_translator` library in your computer in order to run the programme
+- Install the deep_translator library in your computer in order to run the programme
